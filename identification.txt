@@ -1,0 +1,26 @@
+a.) Explain in your own words the term "single-threaded"
+
+:is the processing of one command at a time.The term has been
+ widely accepted within the functional programming community.
+
+
+b.) In your own words, what is "event driven architecture"
+
+: even driven architecture-An event is any identifiable occurrence
+ that has significance for system hardware or software. 
+
+c.) What are the benefits of a javascript module
+
+:the benefits of a javascript module is a the module pattern 
+promotes self contained code.
+
+d.) Give two implementations of javascript module
+
+:It must describe a relationship: In some cases 
+it may appear that a pattern describes a type of module.
+
+
+e.) In you own words, what is a module bundler.
+
+:To make this actually useful, however, one also needs a mechanism 
+for specifying module dependencies.
